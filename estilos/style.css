@@ -7,12 +7,12 @@ h1 {
 }
 
 body {
-    background-color: rgba(70, 143, 98, 0.842);
+    background-color: rgb(2, 129, 129);
     font-size: 16px;
 }
 
 main {
-    background-color: rgba(51, 112, 79, 0.267);
+    background-color: rgba(221, 247, 238, 0.753);
     width: 500px;
     margin: auto;
     padding: 10px;
