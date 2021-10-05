@@ -7,14 +7,14 @@ h1 {
 }
 
 body {
-    background-color: rgba(33, 87, 55, 0.856);
+    background-color: rgba(70, 143, 98, 0.842);
     font-size: 16px;
 }
 
 main {
-    background-color: rgba(76, 145, 106, 0.486);
+    background-color: rgba(51, 112, 79, 0.267);
     width: 500px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.219);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.363);
 }
